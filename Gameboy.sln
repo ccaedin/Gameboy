@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameboy", "Gameboy\Gameboy.csproj", "{FADE8779-806F-4139-B1AE-CF8CB82B7270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameboy.Generator", "Gameboy.Generator\Gameboy.Generator.csproj", "{73D2A770-82FB-42C1-9D1E-DEA3A0003507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADE8779-806F-4139-B1AE-CF8CB82B7270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADE8779-806F-4139-B1AE-CF8CB82B7270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADE8779-806F-4139-B1AE-CF8CB82B7270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADE8779-806F-4139-B1AE-CF8CB82B7270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D2A770-82FB-42C1-9D1E-DEA3A0003507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D2A770-82FB-42C1-9D1E-DEA3A0003507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D2A770-82FB-42C1-9D1E-DEA3A0003507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D2A770-82FB-42C1-9D1E-DEA3A0003507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E63B1F1-F75C-4B07-9692-308DCE753794}
+	EndGlobalSection
+EndGlobal
